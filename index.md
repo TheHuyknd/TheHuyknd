@@ -16,7 +16,7 @@ As a first year student I have already been trained and taught in many applicati
 
 ### Projects
 
-Utilizing JustInMind I was asked to create a phone game application.  All games must have the same theme regarding story but the students could choose the style of game they would create.  These images display some of the functions and option you could choose in the main menu.  From visually creating chat boxes to fading backgrounds to coming up with ideas for the application... we did it all.
+Utilizing JustInMind I was asked to create a phone game application.  All games must have the same theme regarding story but the students could choose the style of game they would create.  These images display some of the functions and option you could choose in the main menu.  We were also asked to create a web design on a desktop.  From visually creating chat boxes to fading backgrounds to coming up with ideas for the application... we did it all.  UX was definitely one of my favourite classes.
 
 ![Screen 1@1x (1)](https://user-images.githubusercontent.com/102196636/159951278-53869f80-50dd-4963-ac6f-3d29b34fe658.png)
 ![Screen 1@1x (5)](https://user-images.githubusercontent.com/102196636/159951527-1ebb415d-aeed-43e7-9274-1abac7ba3b7c.png)
