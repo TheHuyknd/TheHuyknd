@@ -9,7 +9,7 @@ As a first year student I have already been trained and taught in many applicati
 - Visual Studio Code
 - Visual Studio 2022
 - Microsoft Access
-- Note Pad++
+- Notepad++
 - Cisco Packet Tracer
 - Xtensio
 - JustInMind
@@ -21,6 +21,8 @@ Utilizing JustInMind I was asked to create a phone game application.  All games 
 ![Screen 1@1x (1)](https://user-images.githubusercontent.com/102196636/159951278-53869f80-50dd-4963-ac6f-3d29b34fe658.png)
 ![Screen 1@1x (5)](https://user-images.githubusercontent.com/102196636/159951527-1ebb415d-aeed-43e7-9274-1abac7ba3b7c.png)
 ![Screen 1@1x (2)](https://user-images.githubusercontent.com/102196636/159952985-2887ff9f-de30-4acf-b1f9-a55fe2c423dc.png)
+
+In 'Web Foundations' we were asked to create a website bases on your interests for the final assignment.  Using HTML and CSS in Notepad++ I have a created a website on my love for sneakers and tried to emphasis the culture and versatility of sneakers.
 
 ![image](https://user-images.githubusercontent.com/102196636/159954750-3c03a82f-54f2-4eff-ab68-9cbcc3b3cd0d.png)
 
