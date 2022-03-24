@@ -17,6 +17,8 @@ As a first year student I have already been trained and taught in many applicati
 ### Projects
 
 ![Screen 1@1x (1)](https://user-images.githubusercontent.com/102196636/159951278-53869f80-50dd-4963-ac6f-3d29b34fe658.png)
+![Screen 1@1x (5)](https://user-images.githubusercontent.com/102196636/159951527-1ebb415d-aeed-43e7-9274-1abac7ba3b7c.png)
+
 
 
 ### Contact
