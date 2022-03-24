@@ -16,25 +16,8 @@ As a first year student I have already been trained and taught in many applicati
 
 ### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screen 1@1x (1)](https://user-images.githubusercontent.com/102196636/159951278-53869f80-50dd-4963-ac6f-3d29b34fe658.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Contact
 
