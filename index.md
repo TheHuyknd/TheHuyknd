@@ -24,7 +24,7 @@ Utilizing JustInMind I was asked to create a phone game application.  All games 
 
 In 'Web Foundations' we were asked to create a website bases on your interests for the final assignment.  Using HTML and CSS in Notepad++ I have a created a website on my love for sneakers and tried to emphasis the culture and versatility of sneakers.
 
-![image](https://user-images.githubusercontent.com/102196636/159954750-3c03a82f-54f2-4eff-ab68-9cbcc3b3cd0d.png)
+![image](https://user-images.githubusercontent.com/102196636/159955463-76540246-d47d-430b-938e-620961ed20a0.png)
 
 
 ### Contact
