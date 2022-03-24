@@ -1,10 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to My School Portfolio!
 
 You can use the [editor on GitHub](https://github.com/TheHuyknd/TheHuyknd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Hello, my name is Huy! Welcome to my page and portfolio! I am a student at Conestoga College and I have been asked to create a page displaying the work I have done. The work consists of past projects that I’ve created over previous semesters.
 
-### Markdown
+### Skills
+
+As a first year student I have already been trained and taught in many applications and code editors.
+
+- Visual Studio Code
+- Visual Studio 2022
+- Microsoft Access
+- Note Pad++
+- Cisco Packet Tracer
+- Xtensio
+- JustInMind
+
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +42,7 @@ Syntax highlighted code block
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheHuyknd/TheHuyknd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 If you have any questions about my page or projects, please don't hesitate to ask me at:
 
